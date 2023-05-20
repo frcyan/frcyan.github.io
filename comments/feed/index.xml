@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Dragon Well	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Welcome, traveler.</description>
+	<lastBuildDate>Mon, 03 Oct 2022 06:15:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		Comment on The Past Is Here by lyz19730417		</title>
+		<link>./../the-past-is-here.html#comment-4</link>
+
+		<dc:creator><![CDATA[lyz19730417]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 06:15:01 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html?p=376#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../the-past-is-here.html#comment-3&quot;&gt;infarct&lt;/a&gt;.
+
+Glad you enjoyed the blogs. 
+I haven&#039;t set up a feed and don&#039;t plan to in the future, as this is just a recreational hobby for me. 
+Just check back once in a while :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../the-past-is-here.html#comment-3">infarct</a>.</p>
+<p>Glad you enjoyed the blogs.<br />
+I haven&#8217;t set up a feed and don&#8217;t plan to in the future, as this is just a recreational hobby for me.<br />
+Just check back once in a while 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The Past Is Here by infarct		</title>
+		<link>./../the-past-is-here.html#comment-3</link>
+
+		<dc:creator><![CDATA[infarct]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2022 19:52:00 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html?p=376#comment-3</guid>
+
+					<description><![CDATA[Simply want to sаy уour article is as astonishing. The cⅼearness in your publish is just cool and i can think you are knowledgeable in this subject.
+Weⅼl together wіth your permiѕsion let me 
+to clutch your feed to stay upⅾated with coming near neаr post.
+
+Thank you a miⅼlion and please keep up the enjоyablｅ 
+work.]]></description>
+			<content:encoded><![CDATA[<p>Simply want to sаy уour article is as astonishing. The cⅼearness in your publish is just cool and i can think you are knowledgeable in this subject.<br />
+Weⅼl together wіth your permiѕsion let me<br />
+to clutch your feed to stay upⅾated with coming near neаr post.</p>
+<p>Thank you a miⅼlion and please keep up the enjоyablｅ<br />
+work.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on My first blog! by lyz19730417		</title>
+		<link>./../my-first-blog.html#comment-2</link>
+
+		<dc:creator><![CDATA[lyz19730417]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2022 01:41:43 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html?p=93#comment-2</guid>
+
+					<description><![CDATA[Testing comment.]]></description>
+			<content:encoded><![CDATA[<p>Testing comment.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
