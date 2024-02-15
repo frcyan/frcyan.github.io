@@ -52,7 +52,7 @@
 					return false;
 				}
 
-				/* Disable tracking iff the opt-out cookie exists. */
+				/* Disable tracking if the opt-out cookie exists. */
 				if (__gtagTrackerIsOptedOut()) {
 					for (var index = 0; index < disableStrs.length; index++) {
 						window[disableStrs[index]] = true;
