@@ -30,7 +30,7 @@ url: "https://frycan.github.io"
 remote_theme: jekyll/minima
 
 minima:
-  skin: dark
+  skin: solarized-light
 
 plugins:
   - jekyll-feed
