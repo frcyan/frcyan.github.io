@@ -30,6 +30,13 @@ github_username:  ""
 
 # Build settings
 theme: minima
+
+minima:
+  skin: classic
+  include_css:
+    - /assets/css/custom.css
+    
+    
 plugins:
   - jekyll-feed
 
