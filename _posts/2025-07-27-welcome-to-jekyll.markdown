@@ -20,5 +20,5 @@ And that's it. I'll try to attach a link to the old Dragonwell so you can always
 
 Once again, thank you for visting.
 
-- Death Valley or 青灵. Whichever you like.
+-- Death Valley or 青灵. Whichever you like.
  
