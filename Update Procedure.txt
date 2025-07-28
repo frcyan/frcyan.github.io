@@ -1,0 +1,11 @@
+Open VSC
+
+git pull.
+
+edit latest markdown file.
+
+git add .
+
+git commit -m "Daily Blog Update"
+
+git push origin main
