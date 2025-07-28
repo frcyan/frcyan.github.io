@@ -27,10 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://frycan.github.io"
 
 # Build settings
-remote_theme: jekyll/minima
-
-minima:
-  skin: solarized-light
+theme: minima
 
 plugins:
   - jekyll-feed
