@@ -4,26 +4,17 @@ title:  "Dragonwell, reborn."
 date:   2025-07-27 12:35:43 -0500
 categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello. Welcome to Dragonwell!
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+It's been a while again, if you were one of the visitors of old Dragonwell. This time around, I can say with certainty that Dragonwell is back in full swing. I, aka Death Valley, Cyanide, or 青灵, am back updating this blog.
 
-Jekyll also offers powerful support for code snippets:
+To give you a brief summary of what's happened to the website in this couple of years where I went inactive, here's the story:
+Originally, the website's run on Wordpress.com. They provided me a set of easy tools for editing blogs and a hosting service that was ~ 50 dollars a year. I remember for the first year, I got a discount so it wasn't bad. But on the second year, I decided to ditch this service because of the price. 
+What then happened is that I downloaded all frontend files and hosted the website staticly on Github. But that also meant I needed to manually create blog pages, upload them, and update other pages as needed. That was a pain in the ass, so I slowly just went dormant. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Fast forward to now, I've finally decided to install a site generator to Github. and this is what you see now! I always knew this was a possible choice, but I've just been lazy to experiment with it and learn. Thankfully I can just ask AI nowadays for quick utilization guidance and bypass a lot of learning. In the end, I just need a simple blog.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+ 
+ 

@@ -21,7 +21,7 @@
 title: Dragonwell 龙井阁
 email: 3189490169@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Dragonwell(龙井阁), a blog website I started in my senior year of high school. 
+  Welcome to Dragonwell (龙井阁), a blog website I started in my senior year of high school. 
   What's dragonwell? It's the name of a Chinese green tea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://frycan.github.io"
