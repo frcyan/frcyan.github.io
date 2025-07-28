@@ -36,7 +36,6 @@ minima:
   include_css:
     - /assets/css/custom.css
     
-    
 plugins:
   - jekyll-feed
 
