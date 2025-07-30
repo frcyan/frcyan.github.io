@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading A Ta Report"
+title: "Read A Ta Report"
 date: 2025-07-29
 ---
 
