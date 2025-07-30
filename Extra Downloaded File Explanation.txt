@@ -1,0 +1,7 @@
+/assets folder is used for background-image customizaztion.
+- newly added prev-next-post button customization at end of the file.
+
+/_layouts folder's files are directly downloaded from minima repo. 
+-  only post.html is edited to include prev-next post buttons.
+
+/_includes is directly downloaded from minima repo, no editing.
