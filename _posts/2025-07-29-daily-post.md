@@ -19,7 +19,9 @@ it's dinner time lol. So I just dumped some pasta and fronzen veg into the bowl 
 on my pasta sauce. That's it. It felt a bit bland halfway through the eating, so I added in a slice of Amr cheese. 
 
 After the meal, I sat on my couch and read the "Romance of Sui and Tang Dynasties" for a few hours, then spent 
-the hour before bed reading this paper: https://www.researchgate.net/publication/393031963_Research_progress_on_preparation_techniques_properties_and_applications_of_Tantalum_Ta_coatings_A_review
+the hour before bed reading this paper:
+
+[Link to Ta Report](https://www.researchgate.net/publication/393031963_Research_progress_on_preparation_techniques_properties_and_applications_of_Tantalum_Ta_coatings_A_review)
 
 It's a report on the general properties of Tantalum and ongoing development of its industrial utilizations as films. It's 
 a shame my research direction isn't related to its content, but I still learned quite a lot! 
