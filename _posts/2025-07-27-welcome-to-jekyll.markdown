@@ -21,4 +21,12 @@ And that's it. I'll try to attach a link to the old Dragon Well so you can alway
 Once again, thank you for visting.
 
 -- Death Valley or 青灵. Whichever you like.
+
+
+<style>
+	.PageNavigation a {
+		float: right;
+	}
+</style>
+
  
