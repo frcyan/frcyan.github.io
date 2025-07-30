@@ -1,7 +1,9 @@
 /assets folder is used for background-image customizaztion.
-- newly added prev-next-post button customization at end of the file.
+- main.css is directly copy-poasted from the main.css generated in _site folder.
+- newly added prev-next-post button customization at end of main.css.
 
 /_layouts folder's files are directly downloaded from minima repo. 
 -  only post.html is edited to include prev-next post buttons.
 
-/_includes is directly downloaded from minima repo, no editing.
+/_includes is directly downloaded from minima repo.
+- only head.html is edited. the css source is changed from style.css to main.css to customize the post page.
