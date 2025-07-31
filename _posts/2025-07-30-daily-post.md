@@ -4,7 +4,7 @@ title: "Light Jog"
 date: 2025-07-30
 ---
 
-I threw in some potato slices, an egg, some lettuce and half a sozen shrimp in my noodle soup, 
+I threw in some potato slices, an egg, some lettuce and half a dozen shrimp in my noodle soup, 
 and there we go, lunch completed. I then went to the lab to retrieve my tested sample and made a 
 slight modification for my next to be tested sample. Was trying to make a modification on a Labview program to 
 swtich the axes of a graph, but I didn't figure it out. I plan to work on it again tomorrow.
