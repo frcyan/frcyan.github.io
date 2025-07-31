@@ -14,8 +14,8 @@ Yeah, I'll use that name from now on, the original book name is a bit long to ty
 
 Tomorrow will be Chong's presentation day! I'm also gonna meet with a fellow student interested in reviving OCEF along 
 with our former president. Hoenstly, I'm not sure how this will play out. The orgnization needs to a total revamp to 
-make this effort succesful, and that'll demand both strategic planning and faithful execution. As corny as that rounds, 
+make this effort succesful, and that'll demand both strategic planning and faithful execution. As corny as that sounds, 
 that is true! And it's a real tough thing. We kinda gained some momentum on the second part, when the org was still around. But 
-not the first part. We stayed quite conservative (or you can call, lazy) on the first part.
+not the first part. We stayed too conservative (or you can call, lazy) on the first part.
 
 Let's see how it goes.
