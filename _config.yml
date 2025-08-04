@@ -27,6 +27,8 @@ url: "https://frycan.github.io"
 
 # Build settings
 theme: minima
+minima:
+  show_excerpts: true
 
 plugins:
   - jekyll-feed
