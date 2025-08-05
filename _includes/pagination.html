@@ -1,0 +1,25 @@
+<nav class="pagination" role="navigation">
+  {% if paginator.previous_page %}
+    <a class="pagination-button prev" href="{{ paginator.previous_page_path | relative_url }}" aria-label="Previous page">&laquo; Prev</a>
+  {% else %}
+    <span class="pagination-button prev disabled">&laquo; Prev</span>
+  {% endif %}
+
+	{% for page in (1..paginator.total_pages) %}
+	  {% if page == paginator.page %}
+		<span class="pagination-button active">{{ page }}</span>
+	  {% else %}
+		{% if page == 1 %}
+		  <a class="pagination-button" href="{{ '/' | relative_url }}">{{ page }}</a>
+		{% else %}
+		  <a class="pagination-button" href="{{ '/' | append: 'page' | append: page | append: '/' | relative_url }}">{{ page }}</a>
+		{% endif %}
+	  {% endif %}
+	{% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pagination-button next" href="{{ paginator.next_page_path | relative_url }}" aria-label="Next page">Next &raquo;</a>
+  {% else %}
+    <span class="pagination-button next disabled">Next &raquo;</span>
+  {% endif %}
+</nav>
