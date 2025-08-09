@@ -10,6 +10,7 @@ git commit -m "Daily Blog Update"
 
 git push origin main
 
+./build-archives.sh
 
 
 

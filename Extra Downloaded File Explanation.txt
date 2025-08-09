@@ -3,6 +3,7 @@
 - newly added prev-next-post button customization at end of main.css.
 
 /_layouts folder's files are directly downloaded from minima repo. 
+- archive.html created to support archives.
 -  only post.html is edited to include prev-next post buttons.
 
 /_includes is directly downloaded from minima repo.
