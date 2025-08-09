@@ -15,7 +15,7 @@ echo "✅ Archive folders copied."
 
 # Force add archive folders in case of .gitignore issues or untracked files
 echo "📥 Adding archive folders to git..."
-git add -f $(find . -type d -regex "./[0-9]{4}/[0-9]{2}")
+git add -f $(find . -type f -regex "./[0-9]{4}/[0-9]{2}/.*")
 
 # Also add any other changes like new posts or updates
 git add .
