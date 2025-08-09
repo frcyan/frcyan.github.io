@@ -1,0 +1,16 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+
+<h1>All Posts Archives</h1>
+{% assign months = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+<ul>
+{% for month in months %}
+  {% assign first_post = month.items[0] %}
+  <li>
+    <a href="{{ first_post.date | date: '/%Y/%m/' }}">{{ month.name }}</a>
+  </li>
+{% endfor %}
+</ul>

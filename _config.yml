@@ -33,9 +33,17 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-archives
 
 paginate: 4
 paginate_path: "/page:num"
+
+jekyll-archives:
+  enabled:
+    - month
+  layout: archive
+  permalinks:
+    month: '/:year/:month/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
