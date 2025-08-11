@@ -10,15 +10,10 @@ cp -r _site/2025 ./2025
 echo "✅ Archive folders copied."
 
 echo "📥 Adding archive files to git..."
-archive_files=$(find 2025 -type f)
-if [ -n "$archive_files" ]; then
-  git add -f $archive_files
-else
-  echo "No archive files found to add."
-fi
+git add -A 2025
 
 # Add any other changes as well
-git add .
+git add -A
 
 # Commit and push only if there are changes
 if git diff --cached --quiet; then
