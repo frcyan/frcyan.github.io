@@ -1,41 +1,25 @@
 #!/bin/bash
-set -euo pipefail
-
-echo "🧹 Removing previously committed generated year folders (e.g. ./2025) and generated assets that cause conflicts..."
-# remove root-level year folders like ./2023 ./2024 ./2025
-for d in ./*/; do
-  base=$(basename "$d")
-  if [[ $base =~ ^[0-9]{4}$ ]]; then
-    echo "  removing ./$(basename "$d")"
-    rm -rf "./$base"
-  fi
-done
-
-# remove generated CSS that conflicts with your SCSS (if you copied it earlier)
-if [ -f assets/main.css ]; then
-  echo "  removing assets/main.css"
-  rm -f assets/main.css
-fi
+set -e
 
 echo "🏗 Building site with Jekyll..."
 bundle exec jekyll build
 
-echo "📂 Copying freshly generated year folders from _site to repo root..."
-for d in _site/*/; do
-  base=$(basename "$d")
-  if [[ $base =~ ^[0-9]{4}$ ]]; then
-    echo "  copying $base"
-    cp -r "_site/$base" "./$base"
-  fi
-done
+echo "📂 Removing old archive folder and copying new archives..."
+rm -rf 2025
+cp -r _site/2025 ./2025
+echo "✅ Archive folders copied."
 
-echo "📥 Staging changes..."
+echo "📥 Adding archive files to git..."
+git add -A 2025
+
+# Add any other changes as well
 git add -A
 
+# Commit and push only if there are changes
 if git diff --cached --quiet; then
   echo "ℹ️ No changes to commit."
 else
-  git commit -m "Update generated archives"
+  git commit -m "Update site and archives"
   git push
-  echo "🚀 Pushed updated archives."
+  echo "🚀 Changes committed and pushed."
 fi
