@@ -1,25 +1,30 @@
 #!/bin/bash
-set -e
+set -euo pipefail
 
-echo "🏗 Building site with Jekyll..."
+echo "🏗 Building site..."
 bundle exec jekyll build
 
-echo "📂 Removing old archive folder and copying new archives..."
-rm -rf 2025
-cp -r _site/2025 ./2025
-echo "✅ Archive folders copied."
+echo "📂 Refreshing ./archives from _site (non-destructive)..."
+rm -rf archives
+mkdir -p archives
 
-echo "📥 Adding archive files to git..."
-git add -A 2025
+for d in _site/[0-9][0-9][0-9][0-9]; do
+  [ -d "$d" ] || continue
+  year=$(basename "$d")
+  echo "  copying $year"
+  cp -r "$d" "archives/$year"
+done
 
-# Add any other changes as well
-git add -A
+echo "📥 Staging archives only..."
+git add -A archives
 
-# Commit and push only if there are changes
+# also stage real source changes (posts, etc.)
+git add -A _posts || true
+
 if git diff --cached --quiet; then
   echo "ℹ️ No changes to commit."
 else
-  git commit -m "Update site and archives"
+  git commit -m "Update generated archives"
   git push
-  echo "🚀 Changes committed and pushed."
+  echo "🚀 Updated archives pushed."
 fi
