@@ -1,30 +1,34 @@
 #!/bin/bash
-set -euo pipefail
+set -e
 
-echo "🏗 Building site..."
+YEAR=$(date +"%Y")
+
+echo "🏗 Building site with Jekyll..."
 bundle exec jekyll build
 
-echo "📂 Refreshing ./archives from _site (non-destructive)..."
-rm -rf archives
-mkdir -p archives
+echo "📂 Updating archive folders for $YEAR..."
+mkdir -p "./$YEAR"
 
-for d in _site/[0-9][0-9][0-9][0-9]; do
-  [ -d "$d" ] || continue
-  year=$(basename "$d")
-  echo "  copying $year"
-  cp -r "$d" "archives/$year"
+# Copy all months from _site
+for month_dir in _site/$YEAR/*/; do
+    month=$(basename "$month_dir")
+    mkdir -p "./$YEAR/$month"
+    cp -r "$month_dir"/* "./$YEAR/$month/"
 done
 
-echo "📥 Staging archives only..."
-git add -A archives
+echo "✅ Archives for $YEAR updated."
 
-# also stage real source changes (posts, etc.)
-git add -A _posts || true
+echo "📥 Adding archive files to git..."
+git add -f "$YEAR"
 
+# Add any other changes as well
+git add .
+
+# Commit and push only if there are changes
 if git diff --cached --quiet; then
   echo "ℹ️ No changes to commit."
 else
-  git commit -m "Update generated archives"
+  git commit -m "Update archives for $YEAR"
   git push
-  echo "🚀 Updated archives pushed."
+  echo "🚀 Changes committed and pushed."
 fi
