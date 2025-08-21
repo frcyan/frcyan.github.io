@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Mapo Tofu"
 date: 2025-08-15
 ---
 
