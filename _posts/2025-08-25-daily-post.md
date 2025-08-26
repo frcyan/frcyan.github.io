@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Once again, ENG 100"
+title: "ENG 100, Once More"
 date: 2025-08-25
 ---
 
