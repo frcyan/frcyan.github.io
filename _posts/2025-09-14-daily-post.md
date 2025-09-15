@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Daily Post - September 14, 2025"
+title: "Learning"
 date: 2025-09-14
 ---
 
-This is the automatically generated post for September 14, 2025.
+Group meeting as usual this morning...I think I did ok. But my gosh am I sleepy.
+
+Afterwards I cooked veggie+GB+rice for lunch, played some MHFU, read Ch.3 for further PHYS 487 review. After that...I went to Far East for a grocery run, and finished reading Ch.3 of Griffith in the evening after I made simple napa noodle for dinner.
