@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Daily Post - September 21, 2025"
+title: "Qubit?"
 date: 2025-09-21
 ---
 
-This is the automatically generated post for September 21, 2025.
+IN meeting, professor suggested that I try doing AC measurement on my Ta samples. Let's see how this goes.
+
+Oh yeah, and I'm just grinding this shit AFM report. Oh my god it's so long... 
