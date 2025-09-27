@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - September 23, 2025"
+title: "Rushing Report"
 date: 2025-09-23
 ---
 
-This is the automatically generated post for September 23, 2025.
+Rushed out the AFM lab report with my partner just before the deadline. 
