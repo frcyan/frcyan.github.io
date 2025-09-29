@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - September 27, 2025"
+title: "It's myGO!!!!!"
 date: 2025-09-27
 ---
 
-This is the automatically generated post for September 27, 2025.
+Started watching myGO. It's just as Zephyr said, kinda...intense. I finished 4 episodes and I might just finish it by tomorrow night.
