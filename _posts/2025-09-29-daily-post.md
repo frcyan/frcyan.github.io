@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - September 29, 2025"
+title: "Review"
 date: 2025-09-29
 ---
 
-This is the automatically generated post for September 29, 2025.
+This week is literally just gonna be reviewing for the Wednesday test for PHYS 487. I bought some tortillas and 2 lb ofgrond pork from CountyMarket, and made 8 burritos for future usage. Awesome. I ate an additional one which didn't wrap well for dinner, and it tasted quite alright!
