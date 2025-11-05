@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - November 03, 2025"
+title: "New recipe?"
 date: 2025-11-03
 ---
 
-This is the automatically generated post for November 03, 2025.
+Did my retake for CS 450. It went...a bit worse than I thought, but whatever. For dinner, I cooked the leftover rotisseries chicken from yesterday with cabbage, celery, and starch noodles into a soup, and ate that with bread. Actually pretty darn good!
