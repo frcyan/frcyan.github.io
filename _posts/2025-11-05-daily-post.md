@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Daily Post - November 05, 2025"
+title: "I'm dying bruh"
 date: 2025-11-05
 ---
 
-This is the automatically generated post for November 05, 2025.
+Ate some rice noodles with Zephyr. Sadly I think we won't be sharing classes next semester, unless bro decides to take PHYS 446, which is one of his backup options.
+
+Practiced some more Tristram with Jeep. 
