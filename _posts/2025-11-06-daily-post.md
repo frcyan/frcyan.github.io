@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - November 06, 2025"
+title: "Laser"
 date: 2025-11-06
 ---
 
-This is the automatically generated post for November 06, 2025.
+Begin my last PHYS 403 experiment: Validify Quantum Entanglement w/ a laser setup. 
