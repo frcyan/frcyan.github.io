@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - November 18, 2025"
+title: "Cramming for CS 450"
 date: 2025-11-18
 ---
 
-This is the automatically generated post for November 18, 2025.
+Yeah. I'm just trying to study as much as I can for CS 450 test tomorrow.
