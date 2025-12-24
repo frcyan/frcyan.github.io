@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Daily Post - November 25, 2025"
+title: "Forward"
 date: 2025-11-25
 ---
 
-This is the automatically generated post for November 25, 2025.
+I got Berkeley and Texas A&M done!
+

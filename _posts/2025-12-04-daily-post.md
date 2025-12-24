@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - December 04, 2025"
+title: "403 Final Presentation Begins"
 date: 2025-12-04
 ---
 
-This is the automatically generated post for December 04, 2025.
+It's the first presentation of PHYS 403. 
