@@ -10,7 +10,7 @@ git commit -m "Daily Blog Update"
 
 git push origin main
 
-./build-archives.sh
+./generate-month-archives.sh (in git bash)
 
 
 
