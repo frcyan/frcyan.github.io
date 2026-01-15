@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - January 13, 2026"
+title: "I'm slacking"
 date: 2026-01-13
 ---
 
-This is the automatically generated post for January 13, 2026.
+I didn't learn Japanese nor read books today. I woke up and played some guitar and that's it. Spend almost whole day playing Hollow Knight! This is a bit bad.
