@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Daily Post - February 12, 2026"
+title: "Halt in Research and...Apps"
 date: 2026-02-12
 ---
 
-This is the automatically generated post for February 12, 2026.
+Research is in halt because everyone's queuing up the fridge
+Apps is in halt because they just are.
