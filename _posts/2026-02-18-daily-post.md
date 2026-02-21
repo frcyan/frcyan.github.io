@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - February 18, 2026"
+title: "Schor isn't working"
 date: 2026-02-18
 ---
 
-This is the automatically generated post for February 18, 2026.
+Eh, that's about it. I got my HW graded but turns out my Schor has some critical error, so I need to fix it soon. 
