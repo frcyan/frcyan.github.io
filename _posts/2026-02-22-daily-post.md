@@ -8,4 +8,4 @@ I read my textbook for a bit this afternoon, then went to Zephyr's house. He sai
 
 To Zephyr's surprise, we finished all three dishes. He said the second dish was supposed to be saved to make porridge. But oh well, oops. We then played Haruhikage together, but I still stuck a bit too much for us to cooperate for the most part. I need more practice.
 
-G
+G.
