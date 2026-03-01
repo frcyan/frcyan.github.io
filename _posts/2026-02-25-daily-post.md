@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - February 25, 2026"
+title: "Neutral Atoms"
 date: 2026-02-25
 ---
 
-This is the automatically generated post for February 25, 2026.
+A professor from Wisconsin came over and gave a talk over Neutral Atoms Qubits. It was a great talk, very thorough and clean. (Bruh they rejected me though) Zephyr and I sat throug it together and got some malatang afterwords.
