@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - March 20, 2026"
+title: "The Day Zooms By"
 date: 2026-03-20
 ---
 
-This is the automatically generated post for March 20, 2026.
+Woke up around 12:30, ate a bacon sandwitch for lunch and did a bit of 460 homework. Other than that I've been up to nothing really. This is crazy...where the time went?

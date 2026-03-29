@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Daily Post - March 18, 2026"
+title: "Waiting for the Trip"
 date: 2026-03-18
 ---
 
-This is the automatically generated post for March 18, 2026.
+Tomorrow's the Chicago trip and I kinda used it as an excuse to not do anything today. I know it's stupid but that's what it is I tell you...
