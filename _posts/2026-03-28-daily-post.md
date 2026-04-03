@@ -11,3 +11,4 @@ I then went to my barber, and before I left she asked my name told me she'll pra
 
 For dinner, I sauteed some beef chucks til a bit charred, added ginger, garlic, spcies and fried a little to get the aroma, then add some shaoxing wine quickly to scrape off the fond and smell that good scent, next is just water and soy sauce. stewed about 2 hrs and it's awesome!!
 
+In addition, I have just implemented a feature in my daily update that it deletes any psots I haven't editted. So, now you should see a much cleaner website without literal "filler posts" between days where I simply was too lethargic to write anything.
